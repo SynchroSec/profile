@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=synchrosec" alt="synchrosec" /></a> </p>
 
-- 🔭 I’m currently working on [bug bounty](https://www.bugcrowd.com/)
+- 🔭 I’m currently working on [bug bounty](https://www.bugcrowd.com/) 
 
 - 🌱 I’m currently learning **.net and mangodb**
 
