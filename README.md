@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [bug bounty](https://www.bugcrowd.com/) 
 
-- 🌱 I’m currently learning **.net and mangodb**
+- 🌱 I’m currently learning **.net and mangodb** 
 
 - 👯 I’m looking to collaborate on **backend**
 
